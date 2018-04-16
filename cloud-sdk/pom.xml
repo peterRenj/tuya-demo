@@ -49,7 +49,19 @@
             <version>1.10</version>
             <scope>test</scope>
         </dependency>
-        
+        <dependency>
+            <groupId>tuya-demo</groupId>
+            <artifactId>cloudsign</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+
+        <dependency>
+            <groupId>com.tuya.atop_proxy</groupId>
+            <artifactId>atop-client</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
 
     </dependencies>
 
